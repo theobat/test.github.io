@@ -118,7 +118,7 @@ msgstr ""
 msgid "Choose your password"
 msgstr ""
 
-#: src/ui/modules/MainHeader/dropdown.tsx:70
+#: src/ui/modules/MainHeader/dropdown.tsx:78
 msgid "Code of Conduct"
 msgstr ""
 
@@ -170,7 +170,7 @@ msgid "Description"
 msgstr ""
 
 #: src/ui/modules/Sidebar/index.tsx:146
-msgid "Discover"
+msgid "Discoveraaa"
 msgstr ""
 
 #: src/ui/pages/settings/index.tsx:18
@@ -329,6 +329,10 @@ msgstr ""
 msgid "Instance description"
 msgstr ""
 
+#: src/ui/modules/MainHeader/dropdown.tsx:53
+msgid "Inventory"
+msgstr ""
+
 #: src/pages/search/preview.tsx:52
 #: src/ui/modules/HeroCommunity/index.tsx:47
 #: src/ui/modules/Previews/Community.tsx:55
@@ -371,7 +375,7 @@ msgstr ""
 msgid "My Timeline"
 msgstr ""
 
-#: src/ui/modules/MainHeader/dropdown.tsx:63
+#: src/ui/modules/MainHeader/dropdown.tsx:71
 msgid "New Community"
 msgstr ""
 
@@ -527,7 +531,7 @@ msgstr ""
 msgid "Sent invitations"
 msgstr ""
 
-#: src/ui/modules/MainHeader/dropdown.tsx:53
+#: src/ui/modules/MainHeader/dropdown.tsx:61
 #: src/ui/modules/Sidebar/dropdown.tsx:50
 msgid "Settings"
 msgstr ""
@@ -547,7 +551,7 @@ msgstr ""
 msgid "Sign in"
 msgstr ""
 
-#: src/ui/modules/MainHeader/dropdown.tsx:88
+#: src/ui/modules/MainHeader/dropdown.tsx:96
 #: src/ui/modules/Sidebar/dropdown.tsx:81
 msgid "Sign out"
 msgstr ""
@@ -577,6 +581,7 @@ msgstr ""
 
 #: src/ui/modules/SidePanel/index.tsx:31
 #: src/ui/modules/SidePanel/index.tsx:57
+#: src/ui/modules/SidePanel/index.tsx:82
 msgid "This feature is coming soon!"
 msgstr ""
 
