@@ -1,17 +1,11 @@
 msgid ""
 msgstr ""
-"POT-Creation-Date: 2020-06-16 13:41+0200\n"
+"POT-Creation-Date: 2020-06-26 09:36+0000\n"
 "Mime-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: @lingui/cli\n"
 "Language: en_GB\n"
-"Project-Id-Version: \n"
-"Report-Msgid-Bugs-To: \n"
-"PO-Revision-Date: \n"
-"Last-Translator: \n"
-"Language-Team: \n"
-"Plural-Forms: \n"
 
 #: src/ui/modules/ShareLink/index.tsx:17
 msgid "A name or title for the resource"
@@ -118,7 +112,7 @@ msgstr ""
 msgid "Choose your password"
 msgstr ""
 
-#: src/ui/modules/MainHeader/dropdown.tsx:78
+#: src/ui/modules/MainHeader/dropdown.tsx:70
 msgid "Code of Conduct"
 msgstr ""
 
@@ -170,7 +164,7 @@ msgid "Description"
 msgstr ""
 
 #: src/ui/modules/Sidebar/index.tsx:146
-msgid "Discoveraaa"
+msgid "Discover"
 msgstr ""
 
 #: src/ui/pages/settings/index.tsx:18
@@ -329,10 +323,6 @@ msgstr ""
 msgid "Instance description"
 msgstr ""
 
-#: src/ui/modules/MainHeader/dropdown.tsx:53
-msgid "Inventory"
-msgstr ""
-
 #: src/pages/search/preview.tsx:52
 #: src/ui/modules/HeroCommunity/index.tsx:47
 #: src/ui/modules/Previews/Community.tsx:55
@@ -375,7 +365,7 @@ msgstr ""
 msgid "My Timeline"
 msgstr ""
 
-#: src/ui/modules/MainHeader/dropdown.tsx:71
+#: src/ui/modules/MainHeader/dropdown.tsx:63
 msgid "New Community"
 msgstr ""
 
@@ -531,7 +521,7 @@ msgstr ""
 msgid "Sent invitations"
 msgstr ""
 
-#: src/ui/modules/MainHeader/dropdown.tsx:61
+#: src/ui/modules/MainHeader/dropdown.tsx:53
 #: src/ui/modules/Sidebar/dropdown.tsx:50
 msgid "Settings"
 msgstr ""
@@ -551,7 +541,7 @@ msgstr ""
 msgid "Sign in"
 msgstr ""
 
-#: src/ui/modules/MainHeader/dropdown.tsx:96
+#: src/ui/modules/MainHeader/dropdown.tsx:88
 #: src/ui/modules/Sidebar/dropdown.tsx:81
 msgid "Sign out"
 msgstr ""
@@ -581,7 +571,6 @@ msgstr ""
 
 #: src/ui/modules/SidePanel/index.tsx:31
 #: src/ui/modules/SidePanel/index.tsx:57
-#: src/ui/modules/SidePanel/index.tsx:82
 msgid "This feature is coming soon!"
 msgstr ""
 
