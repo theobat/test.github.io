@@ -1,11 +1,32 @@
 {
-  "main.css": "/static/css/main.36287f2d.rtl.css",
-  "main.js": "/static/js/main.7e043efb.js",
-  "main.css.map": "/static/css/main.36287f2d.css.map",
-  "static/media/slick-theme.css": "/static/media/slick.f97e3bbf.svg",
-  "static/media/collectionPlaceholder.png": "/static/media/collectionPlaceholder.43589a77.png",
-  "static/media/messages.po": "/static/media/messages.51da42b9.po",
-  "static/media/by.png": "/static/media/by.04d377d9.png",
-  "static/media/by-sa.png": "/static/media/by-sa.331e6b36.png",
-  "index.html": "/index.html"
+  "files": {
+    "i18n-0.js": "/static/js/i18n-0.85b5c61d.chunk.js",
+    "i18n-0.js.map": "/static/js/i18n-0.85b5c61d.chunk.js.map",
+    "main.css": "/static/css/main.39bdcc94.chunk.css",
+    "main.js": "/static/js/main.a238e7e5.chunk.js",
+    "main.js.map": "/static/js/main.a238e7e5.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.e2e61fe4.js",
+    "runtime-main.js.map": "/static/js/runtime-main.e2e61fe4.js.map",
+    "static/css/3.04624704.chunk.css": "/static/css/3.04624704.chunk.css",
+    "static/js/3.fdb34bef.chunk.js": "/static/js/3.fdb34bef.chunk.js",
+    "static/js/3.fdb34bef.chunk.js.map": "/static/js/3.fdb34bef.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.845e77d415af03dc10575c551b4c673e.js": "/precache-manifest.845e77d415af03dc10575c551b4c673e.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/3.04624704.chunk.css.map": "/static/css/3.04624704.chunk.css.map",
+    "static/css/main.39bdcc94.chunk.css.map": "/static/css/main.39bdcc94.chunk.css.map",
+    "static/js/3.fdb34bef.chunk.js.LICENSE.txt": "/static/js/3.fdb34bef.chunk.js.LICENSE.txt",
+    "static/media/by-sa.png": "/static/media/by-sa.331e6b36.png",
+    "static/media/by.png": "/static/media/by.04d377d9.png",
+    "static/media/collectionPlaceholder.png": "/static/media/collectionPlaceholder.43589a77.png",
+    "static/media/messages.po": "/static/media/messages.f1f0c512.po",
+    "static/media/slick-theme.css": "/static/media/slick.f97e3bbf.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e2e61fe4.js",
+    "static/css/3.04624704.chunk.css",
+    "static/js/3.fdb34bef.chunk.js",
+    "static/css/main.39bdcc94.chunk.css",
+    "static/js/main.a238e7e5.chunk.js"
+  ]
 }
