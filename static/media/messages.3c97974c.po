@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"POT-Creation-Date: 2020-09-29 11:52+0000\n"
+"POT-Creation-Date: 2020-10-17 10:16+0000\n"
 "Mime-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -354,7 +354,7 @@ msgstr ""
 msgid "Flag this community"
 msgstr ""
 
-#: src/ui/modules/Previews/Resource.tsx:78
+#: src/ui/modules/Previews/Resource.tsx:71
 msgid "Flag this resource"
 msgstr ""
 
@@ -595,7 +595,7 @@ msgid "Reset the password"
 msgstr ""
 
 #: src/ui/modules/AddResource/UploadResource.tsx:39
-#: src/ui/modules/Previews/Resource.tsx:22
+#: src/ui/modules/Previews/Resource.tsx:23
 msgid "Resource"
 msgstr ""
 
@@ -632,7 +632,7 @@ msgid "Send again"
 msgstr ""
 
 #: src/ui/modules/MoodlePanel/index.tsx:26
-#: src/ui/modules/Previews/Resource.tsx:84
+#: src/ui/modules/Previews/Resource.tsx:77
 msgid "Send to Moodle"
 msgstr ""
 
@@ -752,7 +752,7 @@ msgstr ""
 msgid "Unflag this community"
 msgstr ""
 
-#: src/ui/modules/Previews/Resource.tsx:78
+#: src/ui/modules/Previews/Resource.tsx:71
 msgid "Unflag this resource"
 msgstr ""
 
