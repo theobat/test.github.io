@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"POT-Creation-Date: 2021-03-10 17:15+0000\n"
+"POT-Creation-Date: 2021-03-10 18:12+0000\n"
 "Mime-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -46,7 +46,7 @@ msgstr ""
 msgid "Add to featured list"
 msgstr ""
 
-#: src/ui/modules/MainHeader/dropdown.tsx:100
+#: src/ui/modules/MainHeader/dropdown.tsx:93
 msgid "Admin dashboard"
 msgstr ""
 
@@ -125,7 +125,7 @@ msgstr ""
 msgid "Choose your password"
 msgstr ""
 
-#: src/ui/modules/MainHeader/dropdown.tsx:106
+#: src/ui/modules/MainHeader/dropdown.tsx:99
 msgid "Code of Conduct"
 msgstr ""
 
@@ -197,7 +197,7 @@ msgid "Create"
 msgstr ""
 
 #: src/ui/modules/CreateCollectionPanel/index.tsx:27
-#: src/ui/modules/MainHeader/dropdown.tsx:134
+#: src/ui/modules/MainHeader/dropdown.tsx:127
 #: src/ui/pages/community/index.tsx:37
 msgid "Create a new collection"
 msgstr ""
@@ -206,11 +206,11 @@ msgstr ""
 msgid "Create a new community"
 msgstr ""
 
-#: src/ui/modules/MainHeader/dropdown.tsx:144
+#: src/ui/modules/MainHeader/dropdown.tsx:137
 msgid "Create a new request"
 msgstr ""
 
-#: src/ui/modules/MainHeader/dropdown.tsx:139
+#: src/ui/modules/MainHeader/dropdown.tsx:132
 msgid "Create a new resource"
 msgstr ""
 
@@ -396,10 +396,6 @@ msgstr ""
 msgid "General information"
 msgstr ""
 
-#: src/ui/modules/MainHeader/dropdown.tsx:55
-msgid "Home / Discover"
-msgstr ""
-
 #: src/ui/pages/resetPassword/index.tsx:24
 msgid "If your email is linked to an account in our database, we have sent you an email with which you can reset your password. It may take a few minutes to arrive depending on your mail provider."
 msgstr ""
@@ -490,27 +486,27 @@ msgstr ""
 msgid "My Activities"
 msgstr ""
 
-#: src/ui/modules/MainHeader/dropdown.tsx:62
-msgid "My Communities"
+#: src/ui/modules/MainHeader/dropdown.tsx:63
+msgid "My Communities (errors)"
 msgstr ""
 
-#: src/ui/modules/MainHeader/dropdown.tsx:71
+#: src/ui/modules/MainHeader/dropdown.tsx:57
 msgid "My Profile"
 msgstr ""
 
-#: src/ui/modules/MainHeader/dropdown.tsx:77
-msgid "My comments"
+#: src/ui/modules/MainHeader/dropdown.tsx:70
+msgid "My comments (no page)"
 msgstr ""
 
-#: src/ui/modules/MainHeader/dropdown.tsx:84
-msgid "My favorites"
+#: src/ui/modules/MainHeader/dropdown.tsx:77
+msgid "My favorites (no page)"
 msgstr ""
 
 #: src/ui/pages/home/index.tsx:20
 msgid "My timeline"
 msgstr ""
 
-#: src/ui/modules/MainHeader/dropdown.tsx:129
+#: src/ui/modules/MainHeader/dropdown.tsx:122
 msgid "New Community"
 msgstr ""
 
@@ -669,7 +665,7 @@ msgstr ""
 msgid "Sent invitations"
 msgstr ""
 
-#: src/ui/modules/MainHeader/dropdown.tsx:95
+#: src/ui/modules/MainHeader/dropdown.tsx:88
 msgid "Settings"
 msgstr ""
 
@@ -717,7 +713,7 @@ msgstr ""
 msgid "Sign in"
 msgstr ""
 
-#: src/ui/modules/MainHeader/dropdown.tsx:115
+#: src/ui/modules/MainHeader/dropdown.tsx:108
 msgid "Sign out"
 msgstr ""
 
