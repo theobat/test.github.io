@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"POT-Creation-Date: 2021-03-15 19:01+0000\n"
+"POT-Creation-Date: 2021-03-17 17:42+0000\n"
 "Mime-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -41,12 +41,12 @@ msgstr ""
 msgid "Add new resource"
 msgstr ""
 
-#: src/ui/modules/HeroCollection/index.tsx:66
+#: src/ui/modules/HeroCollection/index.tsx:64
 #: src/ui/modules/HeroCommunity/index.tsx:60
 msgid "Add to featured list"
 msgstr ""
 
-#: src/ui/modules/MainHeader/dropdown.tsx:102
+#: src/ui/modules/MainHeader/dropdown.tsx:101
 msgid "Admin dashboard"
 msgstr ""
 
@@ -125,7 +125,7 @@ msgstr ""
 msgid "Choose your password"
 msgstr ""
 
-#: src/ui/modules/MainHeader/dropdown.tsx:111
+#: src/ui/modules/MainHeader/dropdown.tsx:110
 msgid "Code of Conduct"
 msgstr ""
 
@@ -146,7 +146,7 @@ msgid "Collection {name} - Resources"
 msgstr ""
 
 #: src/ui/modules/Previews/Community.tsx:51
-#: src/ui/pages/community/index.tsx:112
+#: src/ui/pages/community/index.tsx:116
 msgid "Collections"
 msgstr ""
 
@@ -205,7 +205,7 @@ msgid "Create"
 msgstr ""
 
 #: src/ui/modules/CreateCollectionPanel/index.tsx:27
-#: src/ui/modules/MainHeader/dropdown.tsx:142
+#: src/ui/modules/MainHeader/dropdown.tsx:141
 #: src/ui/pages/community/index.tsx:37
 msgid "Create a new collection"
 msgstr ""
@@ -214,11 +214,11 @@ msgstr ""
 msgid "Create a new community"
 msgstr ""
 
-#: src/ui/modules/MainHeader/dropdown.tsx:158
+#: src/ui/modules/MainHeader/dropdown.tsx:157
 msgid "Create a new request"
 msgstr ""
 
-#: src/ui/modules/MainHeader/dropdown.tsx:150
+#: src/ui/modules/MainHeader/dropdown.tsx:149
 msgid "Create a new resource"
 msgstr ""
 
@@ -231,7 +231,7 @@ msgstr ""
 msgid "Description"
 msgstr ""
 
-#: src/ui/modules/Sidebar/index.tsx:152
+#: src/ui/modules/Sidebar/index.tsx:151
 msgid "Discover"
 msgstr ""
 
@@ -251,7 +251,7 @@ msgstr ""
 msgid "Discussion: {excerpt}"
 msgstr ""
 
-#: src/ui/pages/community/index.tsx:115
+#: src/ui/pages/community/index.tsx:119
 msgid "Discussions"
 msgstr ""
 
@@ -259,17 +259,17 @@ msgstr ""
 msgid "Display Name"
 msgstr ""
 
-#: src/ui/modules/FeaturedCollections/index.tsx:81
-#: src/ui/modules/FeaturedCommunities/index.tsx:80
+#: src/ui/modules/FeaturedCollections/index.tsx:79
+#: src/ui/modules/FeaturedCommunities/index.tsx:78
 msgid "Done"
 msgstr ""
 
-#: src/ui/modules/FeaturedCollections/index.tsx:79
-#: src/ui/modules/FeaturedCommunities/index.tsx:78
+#: src/ui/modules/FeaturedCollections/index.tsx:77
+#: src/ui/modules/FeaturedCommunities/index.tsx:76
 msgid "Edit"
 msgstr ""
 
-#: src/ui/modules/HeroCollection/index.tsx:51
+#: src/ui/modules/HeroCollection/index.tsx:49
 msgid "Edit the collection"
 msgstr ""
 
@@ -337,11 +337,11 @@ msgstr ""
 msgid "Enter your password"
 msgstr ""
 
-#: src/ui/modules/FeaturedCollections/index.tsx:72
+#: src/ui/modules/FeaturedCollections/index.tsx:70
 msgid "Featured collections"
 msgstr ""
 
-#: src/ui/modules/FeaturedCommunities/index.tsx:72
+#: src/ui/modules/FeaturedCommunities/index.tsx:70
 msgid "Featured communities"
 msgstr ""
 
@@ -357,7 +357,7 @@ msgstr ""
 msgid "Filters"
 msgstr ""
 
-#: src/ui/modules/HeroCollection/index.tsx:57
+#: src/ui/modules/HeroCollection/index.tsx:55
 msgid "Flag this collection"
 msgstr ""
 
@@ -380,7 +380,7 @@ msgid "Flag this user"
 msgstr ""
 
 #: src/ui/pages/settings/flags.tsx:10
-#: src/ui/pages/settings/index.tsx:188
+#: src/ui/pages/settings/index.tsx:187
 msgid "Flags"
 msgstr ""
 
@@ -401,7 +401,7 @@ msgstr ""
 msgid "Full name"
 msgstr ""
 
-#: src/ui/pages/settings/index.tsx:132
+#: src/ui/pages/settings/index.tsx:131
 msgid "General information"
 msgstr ""
 
@@ -418,7 +418,7 @@ msgstr ""
 msgid "Image"
 msgstr ""
 
-#: src/ui/pages/settings/index.tsx:163
+#: src/ui/pages/settings/index.tsx:162
 msgid "Instance"
 msgstr ""
 
@@ -430,11 +430,11 @@ msgstr ""
 msgid "Intent"
 msgstr ""
 
-#: src/ui/pages/community/index.tsx:121
+#: src/ui/pages/community/index.tsx:125
 msgid "Intents"
 msgstr ""
 
-#: src/ui/pages/settings/index.tsx:175
+#: src/ui/pages/settings/index.tsx:174
 msgid "Invites"
 msgstr ""
 
@@ -477,7 +477,7 @@ msgstr ""
 msgid "Max filesize: 20MB"
 msgstr ""
 
-#: src/ui/pages/community/index.tsx:118
+#: src/ui/pages/community/index.tsx:122
 msgid "Members"
 msgstr ""
 
@@ -485,7 +485,7 @@ msgstr ""
 msgid "Moderation Log"
 msgstr ""
 
-#: src/ui/pages/settings/index.tsx:200
+#: src/ui/pages/settings/index.tsx:199
 msgid "Moderation log"
 msgstr ""
 
@@ -507,19 +507,19 @@ msgstr ""
 msgid "My Activities"
 msgstr ""
 
-#: src/ui/modules/MainHeader/dropdown.tsx:66
+#: src/ui/modules/MainHeader/dropdown.tsx:65
 msgid "My Communities"
 msgstr ""
 
-#: src/ui/modules/MainHeader/dropdown.tsx:57
+#: src/ui/modules/MainHeader/dropdown.tsx:56
 msgid "My Profile"
 msgstr ""
 
-#: src/ui/modules/MainHeader/dropdown.tsx:76
+#: src/ui/modules/MainHeader/dropdown.tsx:75
 msgid "My comments"
 msgstr ""
 
-#: src/ui/modules/MainHeader/dropdown.tsx:86
+#: src/ui/modules/MainHeader/dropdown.tsx:85
 msgid "My favorites"
 msgstr ""
 
@@ -527,7 +527,7 @@ msgstr ""
 msgid "My timeline"
 msgstr ""
 
-#: src/ui/modules/MainHeader/dropdown.tsx:134
+#: src/ui/modules/MainHeader/dropdown.tsx:133
 msgid "New Community"
 msgstr ""
 
@@ -598,7 +598,7 @@ msgstr ""
 msgid "Post a reply"
 msgstr ""
 
-#: src/ui/pages/settings/index.tsx:144
+#: src/ui/pages/settings/index.tsx:143
 msgid "Preferences"
 msgstr ""
 
@@ -607,11 +607,11 @@ msgid "Preferred username"
 msgstr ""
 
 #: src/ui/modules/AddResource/UploadResource.tsx:105
-#: src/ui/modules/SocialText/index.tsx:112
+#: src/ui/modules/SocialText/index.tsx:111
 msgid "Publish"
 msgstr ""
 
-#: src/ui/pages/community/index.tsx:109
+#: src/ui/pages/community/index.tsx:113
 msgid "Recent activity"
 msgstr ""
 
@@ -651,7 +651,7 @@ msgid "Resource"
 msgstr ""
 
 #: src/ui/modules/Previews/Collection.tsx:24
-#: src/ui/modules/Previews/Collection.tsx:135
+#: src/ui/modules/Previews/Collection.tsx:132
 #: src/ui/pages/collection/index.tsx:81
 msgid "Resources"
 msgstr ""
@@ -690,7 +690,7 @@ msgstr ""
 msgid "Sent invitations"
 msgstr ""
 
-#: src/ui/modules/MainHeader/dropdown.tsx:97
+#: src/ui/modules/MainHeader/dropdown.tsx:96
 msgid "Settings"
 msgstr ""
 
@@ -738,7 +738,7 @@ msgstr ""
 msgid "Sign in"
 msgstr ""
 
-#: src/ui/modules/MainHeader/dropdown.tsx:120
+#: src/ui/modules/MainHeader/dropdown.tsx:119
 msgid "Sign out"
 msgstr ""
 
@@ -762,8 +762,8 @@ msgstr ""
 msgid "The url of the resource"
 msgstr ""
 
-#: src/ui/modules/SidePanel/index.tsx:50
-#: src/ui/modules/SidePanel/index.tsx:82
+#: src/ui/modules/SidePanel/index.tsx:36
+#: src/ui/modules/SidePanel/index.tsx:56
 msgid "This feature is coming soon!"
 msgstr ""
 
@@ -792,7 +792,7 @@ msgstr ""
 msgid "Unflag"
 msgstr ""
 
-#: src/ui/modules/HeroCollection/index.tsx:57
+#: src/ui/modules/HeroCollection/index.tsx:55
 msgid "Unflag this collection"
 msgstr ""
 
@@ -815,7 +815,7 @@ msgid "Unflag this user"
 msgstr ""
 
 #: src/ui/modules/HeroUser/index.tsx:32
-#: src/ui/modules/Previews/Collection.tsx:142
+#: src/ui/modules/Previews/Collection.tsx:139
 msgid "Unfollow"
 msgstr ""
 
@@ -880,7 +880,7 @@ msgid "eg. moodlerMary"
 msgstr ""
 
 #: src/ui/modules/Previews/Collection.tsx:32
-#: src/ui/modules/Previews/Collection.tsx:142
+#: src/ui/modules/Previews/Collection.tsx:139
 msgid "follow"
 msgstr ""
 
