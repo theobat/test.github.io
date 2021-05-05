@@ -1,32 +1,32 @@
 {
   "files": {
-    "i18n-0.js": "/static/js/i18n-0.6e667480.chunk.js",
-    "i18n-0.js.map": "/static/js/i18n-0.6e667480.chunk.js.map",
+    "i18n-0.js": "/static/js/i18n-0.564efe4f.chunk.js",
+    "i18n-0.js.map": "/static/js/i18n-0.564efe4f.chunk.js.map",
     "main.css": "/static/css/main.715072af.chunk.css",
-    "main.js": "/static/js/main.5757984d.chunk.js",
-    "main.js.map": "/static/js/main.5757984d.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.5325ac07.js",
-    "runtime-main.js.map": "/static/js/runtime-main.5325ac07.js.map",
+    "main.js": "/static/js/main.02c2f109.chunk.js",
+    "main.js.map": "/static/js/main.02c2f109.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.9150cdcd.js",
+    "runtime-main.js.map": "/static/js/runtime-main.9150cdcd.js.map",
     "static/css/3.d58abfc1.chunk.css": "/static/css/3.d58abfc1.chunk.css",
-    "static/js/3.191d84c8.chunk.js": "/static/js/3.191d84c8.chunk.js",
-    "static/js/3.191d84c8.chunk.js.map": "/static/js/3.191d84c8.chunk.js.map",
+    "static/js/3.ab855a62.chunk.js": "/static/js/3.ab855a62.chunk.js",
+    "static/js/3.ab855a62.chunk.js.map": "/static/js/3.ab855a62.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.fd32908d2e9ab463e96017b528cc53ae.js": "/precache-manifest.fd32908d2e9ab463e96017b528cc53ae.js",
+    "precache-manifest.5d942216214d39493715569aa44d15e4.js": "/precache-manifest.5d942216214d39493715569aa44d15e4.js",
     "service-worker.js": "/service-worker.js",
     "static/css/3.d58abfc1.chunk.css.map": "/static/css/3.d58abfc1.chunk.css.map",
     "static/css/main.715072af.chunk.css.map": "/static/css/main.715072af.chunk.css.map",
-    "static/js/3.191d84c8.chunk.js.LICENSE.txt": "/static/js/3.191d84c8.chunk.js.LICENSE.txt",
+    "static/js/3.ab855a62.chunk.js.LICENSE.txt": "/static/js/3.ab855a62.chunk.js.LICENSE.txt",
     "static/media/by-sa.png": "/static/media/by-sa.331e6b36.png",
     "static/media/by.png": "/static/media/by.04d377d9.png",
     "static/media/collectionPlaceholder.png": "/static/media/collectionPlaceholder.43589a77.png",
-    "static/media/messages.po": "/static/media/messages.1b17b5ae.po",
+    "static/media/messages.po": "/static/media/messages.b1985bed.po",
     "static/media/slick-theme.css": "/static/media/slick.f97e3bbf.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.5325ac07.js",
+    "static/js/runtime-main.9150cdcd.js",
     "static/css/3.d58abfc1.chunk.css",
-    "static/js/3.191d84c8.chunk.js",
+    "static/js/3.ab855a62.chunk.js",
     "static/css/main.715072af.chunk.css",
-    "static/js/main.5757984d.chunk.js"
+    "static/js/main.02c2f109.chunk.js"
   ]
 }
