@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"POT-Creation-Date: 2021-05-28 12:59+0000\n"
+"POT-Creation-Date: 2021-06-01 07:48+0000\n"
 "Mime-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -273,7 +273,7 @@ msgstr ""
 msgid "Discussion: {excerpt}"
 msgstr ""
 
-#: src/ui/pages/community/index.tsx:128
+#: src/ui/pages/community/index.tsx:132
 msgid "Discussions"
 msgstr ""
 
@@ -456,7 +456,7 @@ msgstr ""
 msgid "Intent"
 msgstr ""
 
-#: src/ui/pages/community/index.tsx:116
+#: src/ui/pages/community/index.tsx:120
 msgid "Intents"
 msgstr ""
 
@@ -499,7 +499,7 @@ msgstr ""
 msgid "Max filesize: 20MB"
 msgstr ""
 
-#: src/ui/pages/community/index.tsx:131
+#: src/ui/pages/community/index.tsx:135
 msgid "Members"
 msgstr ""
 
@@ -664,11 +664,11 @@ msgstr ""
 msgid "Receiver"
 msgstr ""
 
-#: src/ui/pages/community/index.tsx:119
+#: src/ui/pages/community/index.tsx:123
 msgid "Recent Inventory"
 msgstr ""
 
-#: src/ui/pages/community/index.tsx:122
+#: src/ui/pages/community/index.tsx:126
 msgid "Recent activity"
 msgstr ""
 
