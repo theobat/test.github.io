@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"POT-Creation-Date: 2021-06-04 08:18+0000\n"
+"POT-Creation-Date: 2021-06-04 08:23+0000\n"
 "Mime-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -574,7 +574,7 @@ msgstr ""
 msgid "No flags yet"
 msgstr ""
 
-#: src/ui/pages/resource/index.tsx:66
+#: src/ui/pages/resource/index.tsx:67
 msgid "Not provided"
 msgstr ""
 
@@ -615,7 +615,7 @@ msgstr ""
 msgid "Password"
 msgstr ""
 
-#: src/ui/pages/resource/index.tsx:114
+#: src/ui/pages/resource/index.tsx:115
 msgid "Perform event"
 msgstr ""
 
@@ -675,7 +675,7 @@ msgstr ""
 msgid "Provider"
 msgstr ""
 
-#: src/ui/pages/resource/index.tsx:94
+#: src/ui/pages/resource/index.tsx:95
 msgid "Provider:"
 msgstr ""
 
@@ -689,7 +689,7 @@ msgstr ""
 msgid "Receiver"
 msgstr ""
 
-#: src/ui/pages/resource/index.tsx:105
+#: src/ui/pages/resource/index.tsx:106
 msgid "Receiver:"
 msgstr ""
 
@@ -872,7 +872,7 @@ msgstr ""
 msgid "Title"
 msgstr ""
 
-#: src/ui/pages/resource/index.tsx:74
+#: src/ui/pages/resource/index.tsx:75
 msgid "Track note:"
 msgstr ""
 
@@ -1017,7 +1017,7 @@ msgstr ""
 
 #: src/ui/pages/resource/index.tsx:26
 #: src/ui/pages/resource/index.tsx:34
-#: src/ui/pages/resource/index.tsx:66
+#: src/ui/pages/resource/index.tsx:67
 msgid "{0}"
 msgstr ""
 
