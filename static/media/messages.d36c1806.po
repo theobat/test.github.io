@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"POT-Creation-Date: 2021-06-04 18:36+0000\n"
+"POT-Creation-Date: 2021-06-07 09:38+0000\n"
 "Mime-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -283,7 +283,7 @@ msgstr ""
 
 #: src/ui/modules/FeaturedCollections/index.tsx:77
 #: src/ui/modules/FeaturedCommunities/index.tsx:76
-#: src/ui/pages/resource/index.tsx:31
+#: src/ui/pages/resource/index.tsx:27
 msgid "Edit"
 msgstr ""
 
@@ -484,7 +484,7 @@ msgid "Load more"
 msgstr ""
 
 #: src/ui/modules/CreateEventOnResourcePanel/index.tsx:51
-#: src/ui/pages/resource/index.tsx:67
+#: src/ui/pages/resource/index.tsx:61
 msgid "Location:"
 msgstr ""
 
@@ -577,7 +577,7 @@ msgstr ""
 msgid "No flags yet"
 msgstr ""
 
-#: src/ui/pages/resource/index.tsx:92
+#: src/ui/pages/resource/index.tsx:86
 msgid "Not provided"
 msgstr ""
 
@@ -588,7 +588,7 @@ msgid "Note"
 msgstr ""
 
 #: src/ui/modules/CreateEventOnResourcePanel/index.tsx:59
-#: src/ui/pages/resource/index.tsx:56
+#: src/ui/pages/resource/index.tsx:50
 msgid "Note:"
 msgstr ""
 
@@ -619,7 +619,7 @@ msgstr ""
 msgid "Password"
 msgstr ""
 
-#: src/ui/pages/resource/index.tsx:27
+#: src/ui/pages/resource/index.tsx:23
 msgid "Perform event"
 msgstr ""
 
@@ -679,7 +679,7 @@ msgstr ""
 msgid "Provider"
 msgstr ""
 
-#: src/ui/pages/resource/index.tsx:120
+#: src/ui/pages/resource/index.tsx:114
 msgid "Provider:"
 msgstr ""
 
@@ -693,7 +693,7 @@ msgstr ""
 msgid "Receiver"
 msgstr ""
 
-#: src/ui/pages/resource/index.tsx:131
+#: src/ui/pages/resource/index.tsx:125
 msgid "Receiver:"
 msgstr ""
 
@@ -876,7 +876,7 @@ msgstr ""
 msgid "Title"
 msgstr ""
 
-#: src/ui/pages/resource/index.tsx:100
+#: src/ui/pages/resource/index.tsx:94
 msgid "Track note:"
 msgstr ""
 
@@ -1026,9 +1026,9 @@ msgstr ""
 #: src/ui/modules/CreateEventOnResourcePanel/index.tsx:45
 #: src/ui/modules/CreateEventOnResourcePanel/index.tsx:53
 #: src/ui/modules/CreateEventOnResourcePanel/index.tsx:61
-#: src/ui/pages/resource/index.tsx:47
-#: src/ui/pages/resource/index.tsx:58
-#: src/ui/pages/resource/index.tsx:92
+#: src/ui/pages/resource/index.tsx:41
+#: src/ui/pages/resource/index.tsx:52
+#: src/ui/pages/resource/index.tsx:86
 msgid "{0}"
 msgstr ""
 
