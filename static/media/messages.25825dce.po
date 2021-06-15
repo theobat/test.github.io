@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"POT-Creation-Date: 2021-06-15 18:12+0000\n"
+"POT-Creation-Date: 2021-06-15 18:18+0000\n"
 "Mime-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -433,7 +433,7 @@ msgstr ""
 msgid "General information"
 msgstr ""
 
-#: src/ui/pages/resource/index.tsx:104
+#: src/ui/pages/resource/index.tsx:163
 msgid "Hide data"
 msgstr ""
 
@@ -541,7 +541,7 @@ msgstr ""
 msgid "More"
 msgstr ""
 
-#: src/ui/pages/resource/index.tsx:99
+#: src/ui/pages/resource/index.tsx:158
 msgid "More info"
 msgstr ""
 
@@ -599,7 +599,7 @@ msgstr ""
 msgid "No flags yet"
 msgstr ""
 
-#: src/ui/pages/resource/index.tsx:184
+#: src/ui/pages/resource/index.tsx:106
 msgid "Not provided"
 msgstr ""
 
@@ -709,7 +709,7 @@ msgstr ""
 msgid "Provider"
 msgstr ""
 
-#: src/ui/pages/resource/index.tsx:212
+#: src/ui/pages/resource/index.tsx:134
 msgid "Provider:"
 msgstr ""
 
@@ -724,7 +724,7 @@ msgstr ""
 msgid "Receiver"
 msgstr ""
 
-#: src/ui/pages/resource/index.tsx:223
+#: src/ui/pages/resource/index.tsx:145
 msgid "Receiver:"
 msgstr ""
 
@@ -859,7 +859,7 @@ msgstr ""
 msgid "Share link"
 msgstr ""
 
-#: src/ui/pages/resource/index.tsx:107
+#: src/ui/pages/resource/index.tsx:166
 msgid "Show data"
 msgstr ""
 
@@ -867,11 +867,11 @@ msgstr ""
 msgid "Show intents"
 msgstr ""
 
-#: src/ui/pages/resource/index.tsx:174
+#: src/ui/pages/resource/index.tsx:96
 msgid "Show less events"
 msgstr ""
 
-#: src/ui/pages/resource/index.tsx:177
+#: src/ui/pages/resource/index.tsx:99
 msgid "Show more events"
 msgstr ""
 
@@ -924,7 +924,7 @@ msgstr ""
 msgid "Title"
 msgstr ""
 
-#: src/ui/pages/resource/index.tsx:192
+#: src/ui/pages/resource/index.tsx:114
 msgid "Track note:"
 msgstr ""
 
@@ -1029,11 +1029,11 @@ msgstr ""
 msgid "community name"
 msgstr ""
 
-#: src/ui/pages/resource/index.tsx:116
+#: src/ui/pages/resource/index.tsx:175
 msgid "contained In:"
 msgstr ""
 
-#: src/ui/pages/resource/index.tsx:124
+#: src/ui/pages/resource/index.tsx:183
 msgid "contains:"
 msgstr ""
 
@@ -1067,7 +1067,7 @@ msgstr ""
 msgid "location"
 msgstr ""
 
-#: src/ui/pages/resource/index.tsx:132
+#: src/ui/pages/resource/index.tsx:191
 msgid "lot:"
 msgstr ""
 
@@ -1075,15 +1075,15 @@ msgstr ""
 msgid "reate new Password"
 msgstr ""
 
-#: src/ui/pages/resource/index.tsx:140
+#: src/ui/pages/resource/index.tsx:199
 msgid "stage:"
 msgstr ""
 
-#: src/ui/pages/resource/index.tsx:148
+#: src/ui/pages/resource/index.tsx:207
 msgid "trace length:"
 msgstr ""
 
-#: src/ui/pages/resource/index.tsx:156
+#: src/ui/pages/resource/index.tsx:215
 msgid "tracking Identifier:"
 msgstr ""
 
@@ -1092,7 +1092,7 @@ msgstr ""
 msgid "unit"
 msgstr ""
 
-#: src/ui/pages/resource/index.tsx:164
+#: src/ui/pages/resource/index.tsx:223
 msgid "unit Of Effort:"
 msgstr ""
 
@@ -1108,7 +1108,7 @@ msgstr ""
 #: src/ui/modules/Resource/PrimaryAccountablePerson/index.tsx:58
 #: src/ui/pages/resource/index.tsx:51
 #: src/ui/pages/resource/index.tsx:62
-#: src/ui/pages/resource/index.tsx:184
+#: src/ui/pages/resource/index.tsx:106
 msgid "{0}"
 msgstr ""
 
