@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"POT-Creation-Date: 2021-07-06 10:40+0000\n"
+"POT-Creation-Date: 2021-07-23 18:07+0000\n"
 "Mime-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -46,7 +46,7 @@ msgid "Add email addresses (comma-separated) to invite to instance"
 msgstr ""
 
 #: src/ui/pages/collection/index.tsx:38
-msgid "Add new resource"
+msgid "Add new publication"
 msgstr ""
 
 #: src/ui/modules/HeroCollection/index.tsx:64
@@ -149,7 +149,7 @@ msgid "Collection {name} - Followers"
 msgstr ""
 
 #: src/HOC/pages/collection/CollectionPage.tsx:22
-msgid "Collection {name} - Resources"
+msgid "Collection {name} - Publications"
 msgstr ""
 
 #: src/ui/modules/Previews/Community.tsx:51
@@ -728,6 +728,10 @@ msgstr ""
 msgid "Provider:"
 msgstr ""
 
+#: src/ui/pages/collection/index.tsx:81
+msgid "Publications"
+msgstr ""
+
 #: src/ui/modules/AddResource/UploadResource.tsx:104
 #: src/ui/modules/SocialText/index.tsx:111
 msgid "Publish"
@@ -788,7 +792,6 @@ msgstr ""
 
 #: src/ui/modules/Previews/Collection.tsx:24
 #: src/ui/modules/Previews/Collection.tsx:132
-#: src/ui/pages/collection/index.tsx:81
 msgid "Resources"
 msgstr ""
 
