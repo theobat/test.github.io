@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"POT-Creation-Date: 2021-08-02 11:17+0000\n"
+"POT-Creation-Date: 2021-08-02 20:38+0000\n"
 "Mime-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -435,7 +435,7 @@ msgstr ""
 msgid "General information"
 msgstr ""
 
-#: src/ui/pages/resource/index.tsx:248
+#: src/ui/pages/resource/index.tsx:256
 msgid "Hide data"
 msgstr ""
 
@@ -559,7 +559,7 @@ msgstr ""
 msgid "More"
 msgstr ""
 
-#: src/ui/pages/resource/index.tsx:243
+#: src/ui/pages/resource/index.tsx:251
 msgid "More info"
 msgstr ""
 
@@ -887,7 +887,7 @@ msgstr ""
 msgid "Share link"
 msgstr ""
 
-#: src/ui/pages/resource/index.tsx:251
+#: src/ui/pages/resource/index.tsx:259
 msgid "Show data"
 msgstr ""
 
@@ -1053,11 +1053,11 @@ msgstr ""
 msgid "community name"
 msgstr ""
 
-#: src/ui/pages/resource/index.tsx:260
+#: src/ui/pages/resource/index.tsx:268
 msgid "contained In:"
 msgstr ""
 
-#: src/ui/pages/resource/index.tsx:268
+#: src/ui/pages/resource/index.tsx:276
 msgid "contains:"
 msgstr ""
 
@@ -1091,7 +1091,7 @@ msgstr ""
 msgid "location"
 msgstr ""
 
-#: src/ui/pages/resource/index.tsx:276
+#: src/ui/pages/resource/index.tsx:284
 msgid "lot:"
 msgstr ""
 
@@ -1099,11 +1099,11 @@ msgstr ""
 msgid "reate new Password"
 msgstr ""
 
-#: src/ui/pages/resource/index.tsx:284
+#: src/ui/pages/resource/index.tsx:292
 msgid "stage:"
 msgstr ""
 
-#: src/ui/pages/resource/index.tsx:292
+#: src/ui/pages/resource/index.tsx:300
 msgid "trace length:"
 msgstr ""
 
@@ -1111,7 +1111,7 @@ msgstr ""
 msgid "trace note:"
 msgstr ""
 
-#: src/ui/pages/resource/index.tsx:300
+#: src/ui/pages/resource/index.tsx:308
 msgid "tracking Identifier:"
 msgstr ""
 
@@ -1120,7 +1120,7 @@ msgstr ""
 msgid "unit"
 msgstr ""
 
-#: src/ui/pages/resource/index.tsx:308
+#: src/ui/pages/resource/index.tsx:316
 msgid "unit Of Effort:"
 msgstr ""
 
