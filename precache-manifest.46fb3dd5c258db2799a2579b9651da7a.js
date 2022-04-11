@@ -32,7 +32,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/js/runtime-main.ee09dcfe.js"
   },
   {
-    "revision": "39685e3a181232a4839edb83d7fec39a",
-    "url": "/static/media/messages.39685e3a.po"
+    "revision": "795b138479a273ee00bc538d15c9993b",
+    "url": "/static/media/messages.795b1384.po"
   }
 ]);
